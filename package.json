@@ -1,0 +1,14 @@
+{
+  "name": "wyandeldata",
+  "version": "1.0.0",
+  "description": "contains the data for the dev web page",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts":{
+    "start": "node server.js"
+  },
+  "author": "Wisin y Yandel",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
